@@ -1,1 +1,1 @@
-# Safe-path-mapping-using-Dijkstra-s-algorithm
+# Safe-path-mapping-using-Dijkstras-algorithm
