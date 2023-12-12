@@ -26,4 +26,4 @@ My analysis is simplified and does not account for several critical real-world f
 ### Results:
 
 ![Final Plot](safest_route_heatmap.png)
-**Figure 1**Optimized route through conflict zones, avoiding enemy bases. The heatmap indicates conflict intensity, and the black dotted line shows the safest path calculated.
+**Figure 1** Optimized route through conflict zones, avoiding enemy bases. The heatmap indicates conflict intensity, and the black dotted line shows the safest path calculated.
