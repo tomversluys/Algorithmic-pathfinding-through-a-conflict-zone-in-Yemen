@@ -1,7 +1,7 @@
 # Safe-path-mapping-using-Dijkstras-algorithm
 
 ### Problem Statement:
-Navigating through conflict zones poses significant risks and challenges. The danger of moving through these zones requires careful planning to find quick yet safe routes. Simplistic assessments of conflict intensity and geography can be misleading, leading to routes that may appear efficient but fail to account for the actual risks on the ground. This project aims to develop a method that not only finds the quickest route but also incorporates risk factors like the likelihood of attacks.
+Navigating through conflict zones poses significant risks and challenges. The danger of moving through these zones requires careful planning to find quick yet safe routes. Simplistic assessments of conflict intensity and geography can be misleading, leading to routes that may appear efficient but fail to account for the actual risks on the ground. This project finds the quickest route and incorporates risk factors like the likelihood of attacks.
 
 ### Dataset:
 This project uses the Cities and Armed Conflict Events (CACE) dataset, which provides real historical conflict data from Yemen spanning the years 2020 to 2023.
