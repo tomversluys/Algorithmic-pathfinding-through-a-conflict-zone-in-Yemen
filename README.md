@@ -17,13 +17,13 @@ Visualization: The results are visualized using Python libraries Matplotlib and 
 ### Limitations:
 My analysis is simplified and does not account for several critical real-world factors:
 
-Topography and Natural Barriers: Factors like elevation changes, water bodies, and other natural features are not considered.
+**Topography and natural barriers**: Factors like elevation changes, water bodies, and other natural features are not considered.
 
-Man-made Structures: The presence of roads, bridges, and urban areas, which significantly affect movement, are not included in the analysis.
+**Man-made structures**: The presence of roads, bridges, and urban areas, which significantly affect movement, are not included in the analysis.
 
-Dynamic Nature of Conflicts: The fluid situation on the ground, with rapidly changing safe and unsafe areas, is beyond the scope of this analysis.
+**DynamicnNature of conflicts**: The fluid situation on the ground, with rapidly changing safe and unsafe areas, is beyond the scope of this analysis.
 
 ### Results:
 
 ![Final Plot](safest_route_heatmap.png)
-Optimized route through conflict zones, avoiding enemy bases. The heatmap indicates conflict intensity, and the black dotted line shows the safest path calculated.
+**Figure 1**Optimized route through conflict zones, avoiding enemy bases. The heatmap indicates conflict intensity, and the black dotted line shows the safest path calculated.
