@@ -25,5 +25,5 @@ Dynamic Nature of Conflicts: The fluid situation on the ground, with rapidly cha
 
 ### Results:
 
-![Final Plot](final_plot.png)
+![Final Plot](safest_route_heatmap.png)
 Optimized route through conflict zones, avoiding enemy bases. The heatmap indicates conflict intensity, and the black dotted line shows the safest path calculated.
