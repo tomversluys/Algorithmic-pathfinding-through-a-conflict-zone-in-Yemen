@@ -1,4 +1,4 @@
-# Safe-path-mapping-using-Dijkstras-algorithm
+# Algorithmic-pathfinding-through-a-conflict-zone-in-Yemen
 
 ### Description:
 Navigating through conflict zones poses significant risks and challenges. Using Python, this project applies algorithmic pathfinding to identify the quickest route between "drop off" and "target" locations in a real-world conflict zone in Yemen, avoiding "enemy camps" and conflict-prone areas. Conflict data was acquired from the Cities and Armed Conflict Events (CACE) dataset (2020-2023).
